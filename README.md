@@ -1,1 +1,3 @@
-# data_camp_portfolio
+## Data Camp Portfolio
+
+This repository contains my first data analytics portfolio. 
